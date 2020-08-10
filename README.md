@@ -1,2 +1,2 @@
-# Firebase-authenticaiton-android
-Google and Facebook sign in using firebase authentication
+# VideoPlayer-android
+VideoPlyaer using google ExoPlayer library

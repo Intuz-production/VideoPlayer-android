@@ -32,7 +32,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 <br/><br/>
 <h1>Acknowledgments</h1>
-<a href="https://github.com/titansgroup/k4l-video-trimmer">k4l-video-trimmer</a>
+<a href="https://github.com/Intuz-production/VideoPlayer-android">VideoPlayer-Android</a>
 
 <br/>
 <h1></h1>
